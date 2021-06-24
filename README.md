@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hello there! 👋 I am KittyCat(Nope not telling my real name yet :P)
+I am currently studying for my medical entrance test.</br>
+I have also qualified for B.tech in Computer Science with Bioinformatics at VIT</br>
+I don't really known what I am gonna study </br>
+Oh and I also have a [youtube channel](https://www.youtube.com/channel/UCXZejZkv7CLfcC8HZFryO3Q)
 
 <!--
-**Lioncat2002/Lioncat2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Lioncat2002/Lioncat2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+### About me
+- 🔭 I’m currently working on: Lone Hermit (A walking sim made in unity)
+- 💼 I work at: Spectr Studios as a programmer
+- 😊 Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- pygame library for [loading animations](https://github.com/Lioncat2002/pylcanim)
+- Numerous small games written in monogame
+
+### Contacts
+- Discord: `Kittycat#2002`
+- email: `eatitall2002@gmail.com`
+- Twitter: `https://twitter.com/LionCatDev2002`
+
