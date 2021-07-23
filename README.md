@@ -13,8 +13,9 @@ Oh and I also have a [youtube channel](https://www.youtube.com/channel/UCXZejZkv
 - 😊 Pronouns: He/Him
 
 ### Projects
-- pygame library for [loading animations](https://github.com/Lioncat2002/pylcanim)
-- Numerous small games written in monogame
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lioncat2002&repo=pylcanim)](https://github.com/Lioncat2002/pylcanim)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lioncat2002&repo=hevadea)](https://github.com/Lioncat2002/hevadea)
+
 
 ### Contacts
 - Discord: `Kittycat#2002`
@@ -25,3 +26,6 @@ Oh and I also have a [youtube channel](https://www.youtube.com/channel/UCXZejZkv
 - Dogecoins: D9EU2JWH2KENjUYCLxHGCB5WWc2EZhVFSQ
 - Bitcoins: 1A8zRsoZPw4pxk4YLRKiG8GsfRT
 - Patreon: https://www.patreon.com/lioncatdevstudio
+
+## Top languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lioncat2002)](https://github.com/Lioncat2002/github-readme-stats)
