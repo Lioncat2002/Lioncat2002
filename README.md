@@ -8,7 +8,7 @@ Oh and I also have a [youtube channel](https://www.youtube.com/channel/UCXZejZkv
 **Lioncat2002/Lioncat2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ### About me
-- 🔭 I’m currently working on: Lone Hermit (A walking sim made in unity)
+- 🔭 I’m currently working on: Purr OS (The perfect OS for Kitty Cats)
 - 💼 I work at: Spectr Studios as a programmer
 - 😊 Pronouns: He/Him
 
@@ -24,3 +24,4 @@ Oh and I also have a [youtube channel](https://www.youtube.com/channel/UCXZejZkv
 ## Support
 - Dogecoins: D9EU2JWH2KENjUYCLxHGCB5WWc2EZhVFSQ
 - Bitcoins: 1A8zRsoZPw4pxk4YLRKiG8GsfRT
+- Patreon: https://www.patreon.com/lioncatdevstudio
