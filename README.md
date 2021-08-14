@@ -23,8 +23,6 @@ Oh and I also have a [youtube channel](https://www.youtube.com/channel/UCXZejZkv
 - Twitter: `https://twitter.com/LionCatDev2002`
 
 ## Support
-- Dogecoins: D9EU2JWH2KENjUYCLxHGCB5WWc2EZhVFSQ
-- Bitcoins: 1A8zRsoZPw4pxk4YLRKiG8GsfRT
 - Patreon: https://www.patreon.com/lioncatdevstudio
 
 ## Top languages
