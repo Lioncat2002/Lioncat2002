@@ -1,7 +1,5 @@
 ## Hello there! 👋 I am KittyCat(Nope not telling my real name yet :P)
-I am currently studying for my medical entrance test.</br>
-I have also qualified for B.tech in Computer Science with Bioinformatics at VIT</br>
-I don't really known what I am gonna study </br>
+I am currently study B Tech in CSE with specialization in Bioinformatics in VIT
 Oh and I also have a [youtube channel](https://www.youtube.com/channel/UCXZejZkv7CLfcC8HZFryO3Q)
 
 <!--
