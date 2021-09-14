@@ -12,7 +12,7 @@ Oh and I also have a [youtube channel](https://www.youtube.com/channel/UCXZejZkv
 
 ### Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lioncat2002&repo=pylcanim)](https://github.com/Lioncat2002/pylcanim)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lioncat2002&repo=hevadea)](https://github.com/Lioncat2002/hevadea)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lioncat2002&repo=purrOS-reboot)](https://github.com/Lioncat2002/purrOS-reboot)
 
 
 ### Contacts
