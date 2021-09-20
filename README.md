@@ -8,7 +8,10 @@ Oh and I also have a [youtube channel](https://www.youtube.com/channel/UCXZejZkv
 ### About me
 - 🔭 I’m currently working on: Purr OS (The perfect OS for Kitty Cats)
 - 💼 I work at: Spectr Studios as a programmer
-- 😊 Pronouns: He/Him
+
+### Stats
+[![Kittycat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lioncat2002)](https://github.com/Lioncat2002/github-readme-stats)
+
 
 ### Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lioncat2002&repo=pylcanim)](https://github.com/Lioncat2002/pylcanim)
