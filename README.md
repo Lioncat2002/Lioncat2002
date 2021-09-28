@@ -27,4 +27,4 @@ Oh and I also have a [youtube channel](https://www.youtube.com/channel/UCXZejZkv
 - Patreon: https://www.patreon.com/lioncatdevstudio
 
 ## Top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lioncat2002)](https://github.com/Lioncat2002/github-readme-stats)
+[![Knows](https://github-readme-stats.vercel.app/api/top-langs/?username=Lioncat2002)](https://github.com/Lioncat2002/github-readme-stats)
