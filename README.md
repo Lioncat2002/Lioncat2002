@@ -7,7 +7,7 @@ Oh and I also have a [youtube channel](https://www.youtube.com/channel/UCXZejZkv
 
 ### About me
 - 🔭 I’m currently working on: Purr OS (The perfect OS for Kitty Cats)
-- 💼 I work at: Spectr Studios as a programmer
+- 💼 I work at:  Just a freelancer for now
 
 ### Stats
 [![Kittycat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lioncat2002)](https://github.com/Lioncat2002/github-readme-stats)
