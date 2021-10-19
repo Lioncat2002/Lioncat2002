@@ -10,7 +10,8 @@ Oh and I also have a [youtube channel](https://www.youtube.com/channel/UCXZejZkv
 - 💼 I work at:  Just a freelancer for now
 
 ### Stats
-[![Kittycat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lioncat2002)](https://github.com/Lioncat2002/github-readme-stats)
+![Kittycat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lioncat2002&count_private=true)
+
 
 
 ### Projects
@@ -27,4 +28,10 @@ Oh and I also have a [youtube channel](https://www.youtube.com/channel/UCXZejZkv
 - Patreon: https://www.patreon.com/lioncatdevstudio
 
 ## Top languages
-[![Knows](https://github-readme-stats.vercel.app/api/top-langs/?username=Lioncat2002)](https://github.com/Lioncat2002/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lioncat2002&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+## Weekly Stats
+[![Weekly stuff](https://github-readme-stats.vercel.app/api/wakatime?username=Lioncat2002)](https://github.com/Lioncat2002/github-readme-stats)
+
