@@ -33,5 +33,5 @@ Oh and I also have a [youtube channel](https://www.youtube.com/channel/UCXZejZkv
 
 
 ## Weekly Stats
-[![Weekly stuff](https://github-readme-stats.vercel.app/api/wakatime?username=Lioncat2002)](https://github.com/Lioncat2002/github-readme-stats)
+[![Weekly stuff](https://github-readme-stats.vercel.app/api/wakatime?username=Lioncat2002)](https://github.com/anuraghazra/github-readme-stats)
 
