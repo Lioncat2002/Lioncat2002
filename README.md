@@ -1,5 +1,5 @@
 ## Hello there! 👋 I am KittyCat(Nope not telling my real name yet :P)
-I am currently study B Tech in CSE with specialization in Bioinformatics in VIT
+I am currently studying B Tech in CSE with specialization in Bioinformatics in VIT
 Oh and I also have a [youtube channel](https://www.youtube.com/channel/UCXZejZkv7CLfcC8HZFryO3Q)
 
 <!--
