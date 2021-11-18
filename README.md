@@ -6,7 +6,7 @@ Oh and I also have a [youtube channel](https://www.youtube.com/channel/UCXZejZkv
 **Lioncat2002/Lioncat2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ### About me
-- 🔭 I’m currently working on: Purr OS (The perfect OS for Kitty Cats)
+- 🔭 I’m currently working on: A monogame platformer
 - 💼 I work at:  Just a freelancer for now
 
 ### Stats
