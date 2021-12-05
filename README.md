@@ -9,6 +9,9 @@ Oh and I also have a [youtube channel](https://www.youtube.com/channel/UCXZejZkv
 - 🔭 I’m currently working on: A monogame platformer
 - 💼 I work at:  Just a freelancer for now
 
+### Portfolio
+https://lioncat2002.github.io/
+
 ### Stats
 ![Kittycat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lioncat2002&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)
 
