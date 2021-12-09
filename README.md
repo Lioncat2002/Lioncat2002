@@ -9,6 +9,7 @@ Oh and I also have a [youtube channel](https://www.youtube.com/channel/UCXZejZkv
 - 🔭 I’m currently working on: A monogame platformer
 - 💼 I work at:  Just a freelancer for now
 
+
 ### Portfolio
 https://lioncat2002.github.io/
 
