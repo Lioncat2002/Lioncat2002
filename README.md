@@ -20,7 +20,7 @@ https://lioncat2002.github.io/
 
 ### Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lioncat2002&repo=pylcanim)](https://github.com/Lioncat2002/pylcanim)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lioncat2002&repo=purrOS-reboot)](https://github.com/Lioncat2002/purrOS-reboot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lioncat2002&repo=CBreeze)](https://github.com/Lioncat2002/CBreeze)
 
 
 ### Contacts
