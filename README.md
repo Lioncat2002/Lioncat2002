@@ -19,8 +19,10 @@ https://lioncat2002.github.io/
 
 
 ### Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lioncat2002&repo=pylcanim)](https://github.com/Lioncat2002/pylcanim)
-
+A library for loading spritefactory animations in pygame:<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lioncat2002&repo=pylcanim)](https://github.com/Lioncat2002/pylcanim)<br>
+A python package manager written in C++: <br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lioncat2002&repo=CBreeze)](https://github.com/Lioncat2002/CBreeze)<br>
 
 
 ### Contacts
