@@ -19,10 +19,10 @@ https://lioncat2002.github.io/
 
 
 ### Projects
-A library for loading spritefactory animations in pygame:<br>
+Pylcanim: a library for loading spritefactory animations in pygame:<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lioncat2002&repo=pylcanim)](https://github.com/Lioncat2002/pylcanim)<br>
-A python package manager written in C++: <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lioncat2002&repo=CBreeze)](https://github.com/Lioncat2002/CBreeze)<br>
+Ferry: a python package manager written in Rust: <br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lioncat2002&repo=CBreeze)](https://github.com/Lioncat2002/Ferry)<br>
 
 
 ### Contacts
