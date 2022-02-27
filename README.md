@@ -22,7 +22,7 @@ https://lioncat2002.github.io/
 Pylcanim: a library for loading spritefactory animations in pygame:<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lioncat2002&repo=pylcanim)](https://github.com/Lioncat2002/pylcanim)<br>
 Ferry: a python package manager written in Rust: <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lioncat2002&repo=CBreeze)](https://github.com/Lioncat2002/Ferry)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lioncat2002&repo=Ferry)](https://github.com/Lioncat2002/Ferry)<br>
 
 
 ### Contacts
