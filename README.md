@@ -26,7 +26,7 @@ Ferry: a python package manager written in Rust: <br>
 
 
 ### Contacts
-- Discord: `Kittycat#2002`
+- Discord: `.Kittycat#5642`
 - email: `eatitall2002@gmail.com`
 - Twitter: `https://twitter.com/LionCatDev2002`
 
