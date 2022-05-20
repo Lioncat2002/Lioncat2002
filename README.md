@@ -7,7 +7,7 @@ Oh and I also have a [youtube channel](https://www.youtube.com/channel/UCXZejZkv
 
 ### About me
 - 🔭 I’m currently working on: Ferry(A Rustified package manager)
-- 💼 I work at:  Just a freelancer for now
+- 💼 I work at:  GDSC
 
 
 ### Portfolio
