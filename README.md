@@ -1,5 +1,5 @@
 ## Hello there! 👋 I am KittyCat
-I am currently studying B Tech in CSE with specialization in Bioinformatics in VIT
+I am currently studying B Tech in CSE with specialization in Bioinformatics in VIT<br>
 ![](https://komarev.com/ghpvc/?username=Lioncat2002)
 
 ### About me
