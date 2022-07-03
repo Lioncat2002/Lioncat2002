@@ -1,9 +1,6 @@
 ## Hello there! 👋 I am KittyCat
 I am currently studying B Tech in CSE with specialization in Bioinformatics in VIT
-Oh and I also have a [youtube channel](https://www.youtube.com/channel/UCXZejZkv7CLfcC8HZFryO3Q)
-
-<!--
-**Lioncat2002/Lioncat2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+![](https://komarev.com/ghpvc/?username=Lioncat2002)
 
 ### About me
 - 🔭 I’m currently working on: Ferry(A Rustified package manager)
@@ -15,8 +12,6 @@ https://lioncat2002.github.io/
 
 ### Stats
 ![Kittycat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lioncat2002&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)
-
-
 
 ### Projects
 Pylcanim: a library for loading spritefactory animations in pygame:<br>
