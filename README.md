@@ -34,7 +34,7 @@ Ferry: a python package manager written in Rust: <br>
 
 
 ## Weekly Stats
-[![Kittycat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lioncat2002)](https://github.com/anuraghazra/github-readme-stats)
+[![Kittycat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lioncat2002&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
