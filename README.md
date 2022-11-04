@@ -25,6 +25,9 @@ Ferry: a python package manager written in Rust: <br>
 - email: `eatitall2002@gmail.com`
 - Twitter: `https://twitter.com/LionCatDev2002`
 
+### Holopin Badges:
+[![@lioncat2002's Holopin board](https://holopin.me/lioncat2002)](https://holopin.io/@lioncat2002)
+
 ## Support
 - Patreon: https://www.patreon.com/lioncatdevstudio
 
