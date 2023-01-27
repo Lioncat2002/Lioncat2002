@@ -25,16 +25,14 @@ Ferry: a python package manager written in Rust: <br>
 - email: `eatitall2002@gmail.com`
 - Twitter: `https://twitter.com/LionCatDev2002`
 
-## Support
-- Patreon: https://www.patreon.com/lioncatdevstudio
 
 ## Top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lioncat2002&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lioncat2002&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
 ## Weekly Stats
-[![Kittycat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lioncat2002&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Kittycat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lioncat2002&langs_count=8&theme=radical&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Streak
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lioncat2002&theme=radical&hide_border=false)<br/>
