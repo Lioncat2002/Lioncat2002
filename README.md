@@ -1,4 +1,4 @@
-## Hello there! 👋 I am KittyCat
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+:3+I+am+kittycat!)](https://git.io/typing-svg)
 I am currently studying B Tech in CSE with specialization in Bioinformatics in VIT<br>
 ![](https://komarev.com/ghpvc/?username=Lioncat2002)
 
