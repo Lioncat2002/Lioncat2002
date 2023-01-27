@@ -1,7 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+:3+I+am+kittycat!)](https://git.io/typing-svg)
-I am currently studying B Tech in CSE with specialization in Bioinformatics in VIT<br>
-![](https://komarev.com/ghpvc/?username=Lioncat2002)
+![viciadoemcodar](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
 
+I am currently studying B Tech in CSE with specialization in Bioinformatics in VIT<br>
 ### About me
 - 🔭 I’m currently working on: Ferry(A Rustified package manager)
 - 💼 I work at:  GDSC
@@ -25,9 +25,6 @@ Ferry: a python package manager written in Rust: <br>
 - email: `eatitall2002@gmail.com`
 - Twitter: `https://twitter.com/LionCatDev2002`
 
-### Holopin Badges:
-[![@lioncat2002's Holopin board](https://holopin.me/lioncat2002)](https://holopin.io/@lioncat2002)
-
 ## Support
 - Patreon: https://www.patreon.com/lioncatdevstudio
 
@@ -39,5 +36,6 @@ Ferry: a python package manager written in Rust: <br>
 ## Weekly Stats
 [![Kittycat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lioncat2002&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-
+## Streak
+![](https://github-readme-streak-stats.herokuapp.com/?user=Lioncat2002&theme=radical&hide_border=false)<br/>
 
