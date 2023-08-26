@@ -21,3 +21,7 @@ https://lioncat2002.github.io/
 ## Streak
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lioncat2002&theme=radical&hide_border=false)<br/>
 
+## Stats
+<a href="https://github.com/Lioncat2002">
+  <img src="https://github-readme-stats.vercel.app/api?username=lioncat2002&count_private=true&show_icons=true&theme=bear" />
+</a>
