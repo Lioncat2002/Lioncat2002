@@ -1,5 +1,4 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+:3+I+am+kittycat!)](https://git.io/typing-svg)
-![viciadoemcodar](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
 
 I am currently studying B Tech in CSE with specialization in Bioinformatics in VIT<br>
 ### About me
