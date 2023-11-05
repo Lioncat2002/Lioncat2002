@@ -4,11 +4,11 @@
 I am currently studying B Tech in CSE with specialization in Bioinformatics in VIT<br>
 ### About me
 - 🔭 I’m currently working on: Starlight(A Game Engine)
-- 💼 I work at:  GDSC
+- 💼 I work at:  Trademarkia
 
 
 ### Portfolio
-https://lioncat2002.github.io/
+https://kittycat-zeta.vercel.app/
 
 ## Top languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lioncat2002&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
