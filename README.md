@@ -3,7 +3,7 @@
 I am currently studying B Tech in CSE with specialization in Bioinformatics in VIT<br>
 ### About me
 - 🔭 I’m currently working on: Starlight(A Game Engine)
-- 💼 I work at:  Trademarkia
+- 💼 I work at:  nowhere
 
 
 ### Portfolio
