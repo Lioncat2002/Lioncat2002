@@ -2,7 +2,7 @@
 
 I am currently studying B Tech in CSE with specialization in Bioinformatics in VIT<br>
 ### About me
-- 🔭 I’m currently working on: Starlight(A Game Engine)
+- 🔭 I’m currently working on: Helix(A programming language)
 - 💼 I work at:  nowhere
 
 
