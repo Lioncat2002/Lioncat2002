@@ -1,13 +1,10 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+:3+I+am+kittycat!)](https://git.io/typing-svg)
 
-I am currently studying B Tech in CSE with specialization in Bioinformatics in VIT<br>
+I am a game developer and compiler enthusiast<br>
 ### About me
 - 🔭 I’m currently working on: Helix(A programming language)
 - 💼 I work at:  nowhere
 
-
-### Portfolio
-https://kittycat-zeta.vercel.app/
 
 ## Top languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lioncat2002&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
