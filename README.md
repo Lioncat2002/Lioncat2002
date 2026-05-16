@@ -2,9 +2,7 @@
 
 I am a game developer and compiler enthusiast<br>
 ### About me
-- I love compilers, cats and game
+- I love compilers, cats and games
 - Godot Power! 🚀
 
-## Streak
-![](https://github-readme-streak-stats.herokuapp.com/?user=Lioncat2002&theme=radical&hide_border=false)<br/>
-
+P.S. reach out to admin@bunnylabs.dev for collaborations.
